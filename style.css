@@ -1,0 +1,26 @@
+* {
+    box-sizing: border-box;
+    background-color:#fff;
+    margin: 0;
+}
+main {
+    max-width: 100%;
+    margin: 0 auto;
+}
+.wrap {
+    width: 60%;
+    margin: 20px auto;
+    border: 2px solid rgb(97, 92, 92);
+}
+.question {
+    font-size: 20px;
+    font-weight: 600;
+    color: #333;
+    padding: 20px 0 10px 10px;
+}
+.answer {
+    font-size: 16px;
+    font-weight: 700;
+    color: #043779;
+    padding-left: 20px;
+}
